@@ -8,9 +8,9 @@ function Feedback() {
 
     return(
         <section className="bg-white min-h-[50vh]">
-            <div className="px-[2em] pb-[5em] flex flex-col sm:flex-row items-start gap-[2em]">
+            <div className="con px-[2em] sm:px-[4em] pb-[5em] flex flex-col sm:flex-row items-start gap-[2em]">
                 <div className='max-w-[530px]'>
-                    <h2 className="text-[2.8rem] font-bold">Why our users <br /> love Vibra?</h2>
+                    <h2 className="text-[2.8rem] font-bold leading-12">Why our users <br /> love Vibra?</h2>
                     <p className="text-[#212529] pt-[.3em] pb-[1.3em]">Hear from our users who’ve found their vibe on Vibra. From going viral to making new connections, see how Vibra is all about fun and community.</p>
                     <button className="text-white bg-[#471359] px-[2em] py-[.6em] rounded-sm cursor-pointer cta2">
                         Create an account
