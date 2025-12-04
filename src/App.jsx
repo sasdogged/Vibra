@@ -2,6 +2,8 @@ import Header from './header'
 import Section from './section'
 import Feedback from './feedback'
 import Creators from './creators'
+import Subscribe from './subscribe'
+import Footer from './footer'
 
 function App() {
  
@@ -11,6 +13,8 @@ function App() {
       <Section />
       <Feedback />
       <Creators />
+      <Subscribe />
+      <Footer />
     </>
   )
 }

@@ -10,7 +10,8 @@ function Section() {
 
     return(
         <div className="mt-[5em] mb-[6em]">
-            <div className="mx-[1.7em] mb-[3.8em] px-[1.7em] flex gap-[1.3em] items-center flex-col sm:flex-row bg-white min-h-[60vh]">
+            <div 
+                className="mx-[1.7em] mb-[3.8em] px-[1.7em] flex gap-[1.3em] items-center flex-col sm:flex-row bg-white min-h-[60vh]">
                 <div className='max-w-[700px]'>
                     <h2 className="font-semibold text-[1.8rem] pb-4">What makes Vibra special?</h2>
                     {/*  */}
@@ -82,7 +83,7 @@ function Section() {
                         />
                         <img 
                             src={Ellipse2} 
-                            alt="girl taking selfie" 
+                            alt="girl taking a selfie" 
                             className='absolute bottom-[-3%] right-[-3%] max-w-full w-[40%] sm:w-[45%] md:w-[40%]' 
                         />
                     </div>
