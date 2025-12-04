@@ -2,4 +2,4 @@
 
 - This is just a simple landing page built with React JS, tailwind css and CSS.
 
-- [Live Link](https://vibra-jet.vercel.app/) uses [Babel](https://babeljs.io/) 
+## [Live Link](https://vibra-jet.vercel.app/)
